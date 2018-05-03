@@ -24,7 +24,7 @@ body {
 }
 .parallaxtext {
     background-blend-mode: difference;
-    padding: 20rem 20rem;
+    padding: 20rem 10rem;
     font-family: 'Nunito', sans-serif;
     font-size: 50px;
     display: inline-block;
